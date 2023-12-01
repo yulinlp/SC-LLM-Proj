@@ -1,3 +1,4 @@
+关联 `https://github.com/yulinlp/SC-Mini-Proj`，是Task2和3的内容
 只处理`交通是否便利`这一方面的数据。
 ### chatgpt_v1
 - zero-shot 
